@@ -5,7 +5,7 @@ describe('Test', function() {
     // add an assertion
     var numbers = [1, 2, 3, 4, 5];
 
-  assert.isArray(2, 'is array of numbers');
+  assert.isArray(numbers, 'is array of numbers');
   })
   
   // ...some more tests
