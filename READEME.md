@@ -1,1 +1,1 @@
--- Jest wurde als Test Framework verwendet
+-- Mocha wurde als Test Framework verwendet
