@@ -1,0 +1,1 @@
+-- Jest wurde als Test Framework verwendet
