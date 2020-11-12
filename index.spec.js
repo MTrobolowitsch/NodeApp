@@ -1,6 +1,10 @@
-const index = require('./index');
-
-test('Sample Test to verify valid unit test for pipeline', () => {
-  expect(1).toBe(1);
-});
-
+// begin a test suite of one or more tests
+describe('Test', function() {
+  it('Test', function() {
+    // add an assertion
+    expect(1).to.equal(1);
+  })
+  
+  // ...some more tests
+  
+})
